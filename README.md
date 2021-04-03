@@ -5,7 +5,7 @@ We have 5 baselines (FedAvg-FixMatch, FedProx-FixMatch, FedAvg-UDA, FedProx-UDA,
 
 We do our experiments on MNIST, CIFAR-10, and SVHN datasets.
 
-you should place your data in `./fedcon-ecmlpkdd-master/data/mnist` (mnist for example)
+you should place your data in `./fedcon-ecmlpkdd2021/data/mnist` (mnist for example)
 
 
 
