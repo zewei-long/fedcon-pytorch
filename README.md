@@ -46,5 +46,16 @@ We provide some examples here.
 
 > python fedcon-main.py --data_dir ../data/svhn --backbone Svhn --dataset svhn --batch_size 10 --num_epochs 150 --label_rate 0.01 --iid iid
 
+#### Citation
+
+You can cite our work by
+```
+@article{long2021fedcon,
+  title={FedCon: A Contrastive Framework for Federated Semi-Supervised Learning},
+  author={Long, Zewei and Wang, Jiaqi and Wang, Yaqing and Xiao, Houping and Ma, Fenglong},
+  journal={arXiv preprint arXiv:2109.04533},
+  year={2021}
+}
+```
 
 
